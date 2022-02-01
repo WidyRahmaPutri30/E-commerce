@@ -1,0 +1,9 @@
+#cntr1{
+	width: 90%;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.7);
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 3%;
+	padding-bottom: 5%;
+	$gradient: linear-gradient(150deg, rgba($white, .12), rgba($white, 0));
+}
